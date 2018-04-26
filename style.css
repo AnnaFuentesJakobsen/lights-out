@@ -1,0 +1,27 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+table { 
+  border-style: solid;
+  border-width: 2px;
+  margin: 0;
+  padding: 0;
+}
+
+td {
+  border-style: solid;
+  border-width: 2px;
+  font-size: 2em;
+  width: 100px;
+  height: 100px;
+}
+.pink {
+	background-color: #F5ABD9;
+}
+
+.black {
+	background-color: black;
+}
+
+
